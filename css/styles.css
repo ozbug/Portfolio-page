@@ -1,18 +1,36 @@
 h1 {
-    color: grey;
-    
+    color: black
 }
 
 h2 {
-    color:grey;
-    text-align: center;
+    color: black;
+    
 }
 
 h3 {
-    color:grey
+    color: black;
 }
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: ;
+}
+
+img {
+    float: right;
+    height: 250px;
+}
+
+.projects {
+    background-color: grey;
+    color: black;
+}
+
+.me {
+    color: black;
+    background-color: white
+}
+
+.oz {
+    background-color: grey; 
+    color: black;
 }
