@@ -9,7 +9,7 @@ A page to show webpages built in Epiccodus lessons.
 * CSS
 
 # Description
-This page contains a list of websites -and their links- that have been designed during Epicodus lessons.
+This page contains a list of websites -and their links- that have been designed during Epicodus lessons. Click [here](https://ozbug.github.io/Portfolio-page/) to view the site.
 
 # Setup instructions
 * Clone this repository to your desktop
