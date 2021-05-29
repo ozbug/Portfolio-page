@@ -1,5 +1,7 @@
 # Portfolio-page
 
+By Ozzy Onwuzu
+
 A page to show webpages built in Epiccodus lessons.
 
 # Technologies Used
