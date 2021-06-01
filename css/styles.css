@@ -23,14 +23,23 @@ img {
 .projects {
     background-color: grey;
     color: black;
+    padding: 100px;
+    border: solid 25px;
+    margin: 25px;
 }
 
 .me {
     color: black;
-    background-color: white
+    background-color: grey;
+    padding: 100px;
+    border: solid 50px;
+    margin: 50px;
 }
 
 .oz {
     background-color: grey; 
     color: black;
+    padding: 150px;
+    border: 50px solid;
+    margin: 50px;
 }
